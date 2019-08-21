@@ -1,0 +1,51 @@
+.benchnine{
+    font-family: 'BenchNine', sans-serif;
+    font-size: 20px;    
+}
+#indexbody{
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+#indextitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'BenchNine', sans-serif;
+    height: 100%;
+    font-size: 75px;
+    color: black;
+}
+#title a:hover{
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+#name{ 
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#profilepicture{
+    width: 200px;
+    height: auto;
+    display: block;
+    margin-top: auto;
+}
+#profiletitle{
+    font-family:'BenchNine', sans-serif;
+}
+#asd{
+    background-color: white;
+}
+
+#aasd{
+    background-color: white;
+}
